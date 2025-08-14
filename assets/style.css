@@ -130,6 +130,11 @@ nav a {
 	padding: .5em;
 	cursor: pointer;
 }
+.modal-body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 .mg-prev, .mg-next {
 	width: 30px;
 	height: 30px;
