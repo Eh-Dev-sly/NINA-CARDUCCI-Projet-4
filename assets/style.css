@@ -100,6 +100,9 @@ nav a {
 .gallery nav {
 	justify-content: center;
 }
+.my-4{
+	justify-content : center;
+}
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
 	background-color: #BEB45A;
@@ -126,6 +129,11 @@ nav a {
 	object-fit: cover;
 	padding: .5em;
 	cursor: pointer;
+}
+.modal-body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 .mg-prev, .mg-next {
 	width: 30px;
